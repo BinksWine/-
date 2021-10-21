@@ -1,4 +1,4 @@
-# kk
+# 进程互斥的四种算法
 操作系统的实验课设，实现Dekker，Lamport，Peterson，Eisenberg进程互斥访问临界区算法，使用java语言完成，可以动态显示进程访问临界区时各个进程的状态 
 
 
